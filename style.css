@@ -761,7 +761,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(53, 48, 35, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -779,20 +779,23 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #DF3602;
 }
 
 .tc-white {
     color: #F3976C!important;
 }
+.tc-tangerine{
+    color:#DF3602;
+}
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #DF3602;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #A02500!important;
     color: #FFFFFF!important;
 }
 
