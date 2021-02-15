@@ -659,7 +659,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #ddc8c8!important;
+}
+
+a:hover{color: #FFF;
+
 }
 
 .container {
