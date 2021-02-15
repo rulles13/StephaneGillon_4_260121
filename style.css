@@ -293,6 +293,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 2em;
+    text-shadow: black 1px 1px 5px;
 }
 
 .navbar {
@@ -655,13 +656,17 @@ h5,
 h6,
 p,
 label,
-.btn,
+.btn {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757!important;
+}
+
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #ddc8c8!important;
+    color: rgba(255, 255, 255, .6)!important;
 }
-
 .container {
     max-width: 1000px;
 }
@@ -715,6 +720,7 @@ p {
 h2 {
     font-size: 1.15em;
     line-height: 1.4em;
+    
 }
 
 h3 {
