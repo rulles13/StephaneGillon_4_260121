@@ -665,7 +665,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: rgba(255, 255, 255, .6)!important;
+    color: rgb(0, 0, 0)!important;
 }
 .container {
     max-width: 1000px;
